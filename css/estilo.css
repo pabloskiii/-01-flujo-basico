@@ -4,3 +4,9 @@ a {
 a :hover{
     color: red;
 }
+#tercera{
+    height: 500;
+}
+img .title{
+    border: 2px dotted red;
+}
